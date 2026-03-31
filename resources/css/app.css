@@ -20,14 +20,14 @@
     padding-inline: 3rem;
 }
 
-@container (max-width: 480px) {
+@media (max-width: 480px) {
     .container { padding-inline: 1rem; }
 }
 
-@container (min-width: 481px) and (max-width: 640px) {
+@media (min-width: 481px) and (max-width: 640px) {
     .container { padding-inline: 1.5rem; }
 }
 
-@container (min-width: 641px) and (max-width: 1024px) {
+@media (min-width: 641px) and (max-width: 1024px) {
     .container { padding-inline: 2rem; }
 }
