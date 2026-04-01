@@ -62,7 +62,7 @@
             <hr class="border-gray-700">
             <a href="#"
                class="bg-yellow-600 text-white text-center px-4 py-2 rounded-lg border-2 border-transparent hover:bg-transparent hover:border-yellow-600 hover:text-yellow-600 transition-colors">
-                Get Started
+                Get a Quote
             </a>
         </div>
     </div>
