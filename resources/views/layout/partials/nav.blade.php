@@ -53,7 +53,8 @@
 
     {{-- Mobile Menu (overlays content, does not push elements down) --}}
     <div id="mobile-menu"
-         class="md:hidden absolute left-0 right-0 w-full bg-green-900 border-t border-gray-700 shadow-lg">
+         class="md:hidden absolute left-0 right-0 w-full bg-green-900 border-t border-gray-700 shadow-lg"
+         style="display: none">
         <div class="px-4 py-3 flex flex-col gap-3  lg:text-lg text-sm  font-medium text-white">
             <a href="{{ url('/') }}" class="hover:text-yellow-600 transition-colors py-1">Home</a>
             <a href="#" class="hover:text-yellow-600 transition-colors py-1">Services</a>
